@@ -13,6 +13,7 @@
   values();
 
   // Step 5: Try to assign another value to the CONST variable
+  const a=20;
  
   // Step 6: Print the value
   console.log("Value outside function:", a);

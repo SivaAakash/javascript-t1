@@ -14,6 +14,7 @@
   myFunction();
 
   // Step 5: Try to assign a new value to the CONST variable
+  const a=20;
 
   // Step 6: Print the CONST variable
   console.log("Value of const variable:", a);
